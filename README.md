@@ -8,7 +8,7 @@ notebookで製作し，1つのファイルに詰めてある．
 
 セグメンテーション前提のシステムなので，実運用は難しいのではないのだろうか．  
 
-実行には元となる画像と，それをセグメンテーションしたラベルマップのファイルが必要．
+実行には元となる画像と，それをセグメンテーションしたラベルマップのファイルが必要．  
 セグメンテーション部分は別で実装してください．
 
 ## example
@@ -17,5 +17,5 @@ notebookで製作し，1つのファイルに詰めてある．
 
 ## reference
 
-[1]:<https://www.jstage.jst.go.jp/article/jsoft/19/1/19_1_57/_article/-char/ja>
-[2]:<https://esslab.jp/~ess/publications/SimoSerraACCV2014.pdf>
+[1]<https://www.jstage.jst.go.jp/article/jsoft/19/1/19_1_57/_article/-char/ja>
+[2]<https://esslab.jp/~ess/publications/SimoSerraACCV2014.pdf>
